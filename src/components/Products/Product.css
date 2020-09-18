@@ -1,0 +1,15 @@
+.course{
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  margin: 20px;
+}
+.course-details{
+  padding-left: 20px;
+  margin: 20px;
+}
+.enroll-button{
+  width: 100px;
+  height: 30px;
+  background-color: gold;
+  border-radius: 6px;
+}
